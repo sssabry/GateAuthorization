@@ -6,7 +6,9 @@ However, this was inconvenient in the cases where the main owners were outside o
 Therefore, this project was a small practice algorithm put together as a learning experience on the functionalities available within both OpenCV (open computer vision) and python's DeepFace.
 
 PLEASE NOTE:
+
 1.
+
 there are two copies of the final python script - main.py & annotated.py
 While both have identical functionality and results, 'annotated.py' includes my personal annotations in the form of comments through out the program.
 These annotations do not have any impact on the functionality - but rather serve as my own reminders and explanations of the different functionalities.
@@ -16,4 +18,5 @@ there are instances in the 'annotated.py' file where the comments include "TODO"
 If attempting to use the program:
 you can either change the file path for the reference image by finding these "TODO" comments or rename your reference image to match that in the source file and replace it on your device.
 
-3. thanks for checking it all out :)
+3.
+thanks for checking it all out :)
